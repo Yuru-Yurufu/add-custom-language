@@ -12,23 +12,15 @@ https://minecraft-ja.gamepedia.com/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%91
 ・英語wiki
 https://minecraft.gamepedia.com/Resource_Pack#Language
 
-・実際にちゃんとした言語を作りたいなら、デフォルトのものも参考になると思います
+・実際にちゃんとした言語を作りたいなら、デフォルトのものも参考になると思います(以下手順)
 
   .minecraft\versions\開発したいバージョンと開いていく
-  
-     ↓
      
   その中にある.jarファイルを開く
-  
-     ↓
      
   assets\minecraft\langと開いていく
   
-     ↓
-     
   その中にあるen_us.jsonを開く
-  
-     ↓
      
   中身をコピペするなりして、自分の作りたい言語を作っていく
 
