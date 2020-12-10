@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "Yurufu's Resourcepack [Add Custom Language]"
+  },
+  "language":{
+    "te_st": {
+      "name":"TestLanguage",
+      "region":"Yurufu",
+      "bidirectional":false
+    }
+  }
+}
