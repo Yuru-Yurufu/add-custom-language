@@ -7,6 +7,7 @@
 
 ・日本語wiki
 https://minecraft-ja.gamepedia.com/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%91%E3%83%83%E3%82%AF#.E8.A8.80.E8.AA.9E
+
 ・英語wiki
 https://minecraft.gamepedia.com/Resource_Pack#Language
 
